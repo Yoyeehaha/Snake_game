@@ -1,7 +1,7 @@
 ## Project Name
 
-Snake Game:snake:
+Snake Game :snake:
 
-## What's this for?
+## What's this for ?
 
 Final project of Java_Software_Development (2024 Spring)
